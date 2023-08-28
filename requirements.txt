@@ -1,0 +1,4 @@
+pytesseract
+pypdfium2
+langchain
+streamlit
